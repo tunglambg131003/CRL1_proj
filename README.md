@@ -93,8 +93,8 @@ Contributions are welcome. Suggested workflow:
 ---
 
 ## License
-
 This repository contains coursework developed as part of a course at VinUniversity. The project is provided for educational and research purposes only.
+
 ---
 
 ## Contact
